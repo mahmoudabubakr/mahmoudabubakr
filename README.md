@@ -1,6 +1,6 @@
 # Hi there. I am Mahmoud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> . Welcome to my Profile!!! 
 
-- 🔭 I am Mohamed working as a Front End Engineer.
+- 🔭 I am Mahmoud working as a Front End Engineer.
 - 💬 Ask me about: JavaScript, React.
 - 📫 How to reach me: <a href="mailto:mahmoudabo1611@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ## Tech Stack
